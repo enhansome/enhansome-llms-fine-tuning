@@ -1,0 +1,312 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLaMA-Factory",
+          "description": "An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:20:42Z",
+            "owner": "hiyouga",
+            "repo": "LlamaFactory",
+            "stars": 74046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaIndex",
+          "description": "🦙: A data framework for your LLM applications. (23010 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:56:49Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llmware",
+          "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. :star: 289",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-17T13:53:37Z",
+            "owner": "llmware-ai",
+            "repo": "llmware",
+            "stars": 14852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lit-gpt",
+          "description": "Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. (3469 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T10:24:12Z",
+            "owner": "Lightning-AI",
+            "repo": "litgpt",
+            "stars": 13611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix",
+          "description": "AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook. (1596 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:52:22Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Petals",
+          "description": "🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-07T11:54:28Z",
+            "owner": "bigscience-workshop",
+            "repo": "petals",
+            "stars": 10489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xtuner",
+          "description": "A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM2). (540 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:38:12Z",
+            "owner": "InternLM",
+            "repo": "xtuner",
+            "stars": 5177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H2O LLM Studio",
+          "description": "A framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/ (2880 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T23:08:25Z",
+            "owner": "h2oai",
+            "repo": "h2o-llmstudio",
+            "stars": 5160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoTrain",
+          "description": "No code fine-tuning of LLMs and other machine learning tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T09:55:09Z",
+            "owner": "huggingface",
+            "repo": "autotrain-advanced",
+            "stars": 4601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB-GPT-Hub",
+          "description": "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance, especially in Text-to-SQL, and achieved higher exec acc than GPT-4 in spider eval with 13B LLM used this project. (422 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-02T03:39:31Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT-Hub",
+            "stars": 2004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Adapters",
+          "description": "Code for the EMNLP 2023 Paper: \"LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models\". (769 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-10T08:20:15Z",
+            "owner": "AGI-Edgerunners",
+            "repo": "LLM-Adapters",
+            "stars": 1233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Finetuning-Hub",
+          "description": "Repository that contains LLM fine-tuning and deployment scripts along with our research findings. :star: 416",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T16:33:40Z",
+            "owner": "georgian-io",
+            "repo": "LLM-Finetuning-Toolkit",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MFTCoder",
+          "description": "High Accuracy and efficiency multi-task fine-tuning framework for Code LLMs; 业内首个高精度、高效率、多任务、多模型支持、多训练算法，大模型代码能力微调框架. :star: 337",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-30T06:01:59Z",
+            "owner": "codefuse-ai",
+            "repo": "MFTCoder",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Platypus",
+          "description": "Code for fine-tuning Platypus fam LLMs using LoRA. (589 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-04T09:50:42Z",
+            "owner": "arielnlee",
+            "repo": "Platypus",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Kit",
+          "description": "🚀WebUI integrated platform for latest LLMs | 各大语言模型的全流程工具 WebUI 整合包。支持主流大模型API接口和开源模型。支持知识库，数据库，角色扮演，mj文生图，LoRA和全参数微调，数据集制作，live2d等全流程应用工具. :star: 232",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-25T07:09:15Z",
+            "owner": "wpydcr",
+            "repo": "LLM-Kit",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finetune_LLMs",
+          "description": "Repo for fine-tuning Casual LLMs. :star: 391",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-27T07:20:16Z",
+            "owner": "mallorbc",
+            "repo": "Finetune_LLMs",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-llm-human-preference-datasets",
+          "description": "A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval. :star: 124",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-04T19:56:44Z",
+            "owner": "glgh",
+            "repo": "awesome-llm-human-preference-datasets",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h2o-wizardlm",
+          "description": "Open-Source Implementation of WizardLM to turn documents into Q:A pairs for LLM fine-tuning. :star: 228",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-24T17:29:44Z",
+            "owner": "h2oai",
+            "repo": "h2o-wizardlm",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm_qlora",
+          "description": "Fine-tuning LLMs using QLoRA. :star: 136",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-21T18:04:57Z",
+            "owner": "georgesung",
+            "repo": "llm_qlora",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcgf",
+          "description": "Humanable Chat Generative-model Fine-tuning | LLM微调. :star: 196",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-22T15:19:03Z",
+            "owner": "hscspring",
+            "repo": "hcgf",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm_finetuning",
+          "description": "Convenient wrapper for fine-tuning and inference of Large Language Models (LLMs) with several quantization techniques (GTPQ, bitsandbytes). :star: 114",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-17T04:50:15Z",
+            "owner": "taprosoft",
+            "repo": "llm_finetuning",
+            "stars": 143
+          }
+        }
+      ],
+      "title": "GitHub projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:35.369Z",
+    "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
+    "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
+    "enhanced_repository": "enhansome/enhansome-llms-fine-tuning",
+    "enhanced_repository_description": null,
+    "title": "Awesome LLMs Fine-Tuning with stars"
+  }
+}
