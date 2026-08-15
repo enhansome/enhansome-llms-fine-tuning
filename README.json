@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T12:45:56Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74094
+            "stars": 74126
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T16:10:23Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51641
+            "stars": 51659
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-05-17T13:53:37Z",
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14851
+            "stars": 14852
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-13T16:54:27Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13616
+            "stars": 13615
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:03:48Z",
+            "last_commit": "2026-08-15T15:59:19Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11052
+            "stars": 11063
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10493
+            "stars": 10494
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:29:26Z",
+            "last_commit": "2026-08-15T10:10:05Z",
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
-            "stars": 5163
+            "stars": 5165
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-21T09:55:09Z",
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4602
+            "stars": 4604
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2004
+            "stars": 2005
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:05:27.703Z",
+    "last_updated": "2026-08-15T17:33:33.278Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
     "enhanced_repository": "enhansome/enhansome-llms-fine-tuning",
