@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T12:45:56Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74126
+            "stars": 74141
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T16:10:23Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51659
+            "stars": 51680
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-05-17T13:53:37Z",
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14852
+            "stars": 14853
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-13T16:54:27Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13615
+            "stars": 13617
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T15:59:19Z",
+            "last_commit": "2026-08-16T17:03:41Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11063
+            "stars": 11072
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-14T14:08:41Z",
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5179
+            "stars": 5180
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-15T10:10:05Z",
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
-            "stars": 5165
+            "stars": 5167
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:33:33.278Z",
+    "last_updated": "2026-08-16T17:32:55.679Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
     "enhanced_repository": "enhansome/enhansome-llms-fine-tuning",
