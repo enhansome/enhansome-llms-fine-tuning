@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T12:45:56Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74141
+            "stars": 74166
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:10:23Z",
+            "last_commit": "2026-08-17T04:43:20Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51680
+            "stars": 51704
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:54:27Z",
+            "last_commit": "2026-08-17T10:24:35Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13617
+            "stars": 13619
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T17:03:41Z",
+            "last_commit": "2026-08-17T17:38:30Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11072
+            "stars": 11088
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10494
+            "stars": 10497
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:08:41Z",
+            "last_commit": "2026-08-17T13:57:19Z",
             "owner": "InternLM",
             "repo": "xtuner",
             "stars": 5180
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-15T10:10:05Z",
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
-            "stars": 5167
+            "stars": 5168
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:32:55.679Z",
+    "last_updated": "2026-08-17T17:42:42.600Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
     "enhanced_repository": "enhansome/enhansome-llms-fine-tuning",
