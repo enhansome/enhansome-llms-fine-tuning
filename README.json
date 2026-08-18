@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T12:45:56Z",
+            "last_commit": "2026-08-18T11:49:47Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74166
+            "stars": 74200
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:43:20Z",
+            "last_commit": "2026-08-18T16:37:12Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51704
+            "stars": 51729
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-05-17T13:53:37Z",
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14853
+            "stars": 14851
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T17:38:30Z",
+            "last_commit": "2026-08-18T17:31:38Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11088
+            "stars": 11095
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10497
+            "stars": 10499
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T13:57:19Z",
+            "last_commit": "2026-08-18T16:56:21Z",
             "owner": "InternLM",
             "repo": "xtuner",
             "stars": 5180
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T10:10:05Z",
+            "last_commit": "2026-08-18T14:26:40Z",
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
             "stars": 5168
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-21T09:55:09Z",
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4604
+            "stars": 4606
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:42:42.600Z",
+    "last_updated": "2026-08-18T17:40:41.724Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
     "enhanced_repository": "enhansome/enhansome-llms-fine-tuning",
