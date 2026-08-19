@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 646410686,
             "language": "Python",
             "last_commit": "2026-08-18T11:49:47Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74200
+            "stars": 74228
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 560704231,
             "language": "Python",
             "last_commit": "2026-08-18T16:37:12Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51729
+            "stars": 51741
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 698288684,
             "language": "Python",
             "last_commit": "2026-05-17T13:53:37Z",
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14851
+            "stars": 14850
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636372163,
             "language": "Python",
             "last_commit": "2026-08-17T10:24:35Z",
             "owner": "Lightning-AI",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-18T17:31:38Z",
+            "last_commit": "2026-08-19T10:58:26Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11095
+            "stars": 11108
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502482803,
             "language": "Python",
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 664913876,
             "language": "Python",
-            "last_commit": "2026-08-18T16:56:21Z",
+            "last_commit": "2026-08-19T11:48:05Z",
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5180
+            "stars": 5179
           }
         },
         {
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629142696,
             "language": "Python",
             "last_commit": "2026-08-18T14:26:40Z",
             "owner": "h2oai",
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321753299,
             "language": "Python",
             "last_commit": "2026-07-21T09:55:09Z",
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4606
+            "stars": 4607
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648474263,
             "language": "Python",
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620843043,
             "language": "Python",
             "last_commit": "2024-03-10T08:20:15Z",
             "owner": "AGI-Edgerunners",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 670206497,
             "language": "Python",
             "last_commit": "2026-05-04T16:33:40Z",
             "owner": "georgian-io",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 688398606,
             "language": "Python",
             "last_commit": "2024-12-30T06:01:59Z",
             "owner": "codefuse-ai",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658571084,
             "language": "Python",
             "last_commit": "2024-02-04T09:50:42Z",
             "owner": "arielnlee",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669402660,
             "language": "Python",
             "last_commit": "2025-11-25T07:09:15Z",
             "owner": "wpydcr",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393592151,
             "language": "Python",
             "last_commit": "2024-03-27T07:20:16Z",
             "owner": "mallorbc",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635880783,
             "language": null,
             "last_commit": "2023-10-04T19:56:44Z",
             "owner": "glgh",
@@ -248,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 640070775,
             "language": "Python",
             "last_commit": "2024-10-24T17:29:44Z",
             "owner": "h2oai",
             "repo": "h2o-wizardlm",
-            "stars": 307
+            "stars": 306
           }
         },
         {
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 661489394,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-21T18:04:57Z",
             "owner": "georgesung",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617804791,
             "language": "Python",
             "last_commit": "2023-09-22T15:19:03Z",
             "owner": "hscspring",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 663748917,
             "language": "Python",
             "last_commit": "2023-10-17T04:50:15Z",
             "owner": "taprosoft",
@@ -302,8 +323,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:40:41.724Z",
+    "last_updated": "2026-08-19T12:36:35.745Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
+    "original_repository_id": 711864970,
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
     "enhanced_repository": "enhansome/enhansome-llms-fine-tuning",
     "enhanced_repository_description": null,
