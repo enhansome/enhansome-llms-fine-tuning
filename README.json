@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T11:49:47Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74228
+            "stars": 74231
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-18T16:37:12Z",
+            "last_commit": "2026-08-19T16:10:40Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51741
+            "stars": 51745
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-19T10:58:26Z",
+            "last_commit": "2026-08-19T17:36:50Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11108
+            "stars": 11112
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-19T11:48:05Z",
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5179
+            "stars": 5178
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-03-10T08:20:15Z",
             "owner": "AGI-Edgerunners",
             "repo": "LLM-Adapters",
-            "stars": 1233
+            "stars": 1232
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:35.745Z",
+    "last_updated": "2026-08-19T17:37:51.640Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
     "original_repository_id": 711864970,
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
