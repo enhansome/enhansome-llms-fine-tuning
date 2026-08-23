@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T10:53:39Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74291
+            "stars": 74299
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T15:46:41Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51800
+            "stars": 51819
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T10:24:35Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13620
+            "stars": 13621
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-22T04:56:24Z",
+            "last_commit": "2026-08-22T21:03:47Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11143
+            "stars": 11149
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-18T14:26:40Z",
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
-            "stars": 5171
+            "stars": 5173
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2005
+            "stars": 2006
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:34:09.108Z",
+    "last_updated": "2026-08-23T17:33:05.188Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
     "original_repository_id": 711864970,
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
