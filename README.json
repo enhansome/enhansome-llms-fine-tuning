@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T10:53:39Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74310
+            "stars": 74314
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T15:46:41Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51839
+            "stars": 51844
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T10:24:35Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13622
+            "stars": 13623
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-24T13:21:52Z",
+            "last_commit": "2026-08-24T17:35:53Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11168
+            "stars": 11171
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10512
+            "stars": 10513
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 664913876,
             "language": "Python",
-            "last_commit": "2026-08-24T12:01:30Z",
+            "last_commit": "2026-08-24T15:24:51Z",
             "owner": "InternLM",
             "repo": "xtuner",
             "stars": 5182
@@ -150,7 +150,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2007
+            "stars": 2008
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:37.688Z",
+    "last_updated": "2026-08-24T17:45:15.471Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
     "original_repository_id": 711864970,
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
