@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T10:53:39Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74314
+            "stars": 74337
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-20T15:46:41Z",
+            "last_commit": "2026-08-24T21:24:35Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51844
+            "stars": 51856
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-05-17T13:53:37Z",
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14849
+            "stars": 14850
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T10:24:35Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13623
+            "stars": 13626
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-24T17:35:53Z",
+            "last_commit": "2026-08-25T05:59:08Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11171
+            "stars": 11174
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 664913876,
             "language": "Python",
-            "last_commit": "2026-08-24T15:24:51Z",
+            "last_commit": "2026-08-25T01:49:14Z",
             "owner": "InternLM",
             "repo": "xtuner",
             "stars": 5182
@@ -135,7 +135,7 @@
             "last_commit": "2026-07-21T09:55:09Z",
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4609
+            "stars": 4608
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:45:15.471Z",
+    "last_updated": "2026-08-25T06:14:08.541Z",
     "original_repository": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
     "original_repository_id": 711864970,
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
