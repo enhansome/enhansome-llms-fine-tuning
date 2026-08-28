@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T10:50:57Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74393
+            "stars": 74403
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-27T04:16:34Z",
+            "last_commit": "2026-08-28T00:11:53Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51891
+            "stars": 51894
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-05-17T13:53:37Z",
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14851
+            "stars": 14852
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T10:24:35Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13631
+            "stars": 13633
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-27T08:27:36Z",
+            "last_commit": "2026-08-27T23:59:45Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11212
+            "stars": 11218
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10522
+            "stars": 10525
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 664913876,
             "language": "Python",
-            "last_commit": "2026-08-27T07:54:38Z",
+            "last_commit": "2026-08-27T11:55:05Z",
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5183
+            "stars": 5184
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-18T14:26:40Z",
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
-            "stars": 5173
+            "stars": 5174
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2024-10-24T17:29:44Z",
             "owner": "h2oai",
             "repo": "h2o-wizardlm",
-            "stars": 306
+            "stars": 307
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:00.715Z",
+    "last_updated": "2026-08-28T01:29:03.808Z",
     "original_repository_info": {
       "archived": false,
       "id": 711864970,
