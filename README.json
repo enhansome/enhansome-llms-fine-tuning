@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T10:50:57Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74403
-          }
+            "stars": 74429
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-28T00:11:53Z",
+            "last_commit": "2026-08-28T15:33:53Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51894
-          }
+            "stars": 51909
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "llmware-ai",
             "repo": "llmware",
             "stars": 14852
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-17T10:24:35Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13633
-          }
+            "stars": 13635
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-27T23:59:45Z",
+            "last_commit": "2026-08-29T00:53:17Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11218
-          }
+            "stars": 11227
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10525
-          }
+            "stars": 10526
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 664913876,
             "language": "Python",
-            "last_commit": "2026-08-27T11:55:05Z",
+            "last_commit": "2026-08-28T08:17:26Z",
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5184
-          }
+            "stars": 5185
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
             "stars": 5174
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "huggingface",
             "repo": "autotrain-advanced",
             "stars": 4608
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2007
-          }
+            "stars": 2009
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "AGI-Edgerunners",
             "repo": "LLM-Adapters",
             "stars": 1233
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "georgian-io",
             "repo": "LLM-Finetuning-Toolkit",
             "stars": 870
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -195,8 +207,9 @@
             "last_commit": "2024-12-30T06:01:59Z",
             "owner": "codefuse-ai",
             "repo": "MFTCoder",
-            "stars": 710
-          }
+            "stars": 711
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "arielnlee",
             "repo": "Platypus",
             "stars": 625
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "wpydcr",
             "repo": "LLM-Kit",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "mallorbc",
             "repo": "Finetune_LLMs",
             "stars": 467
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "glgh",
             "repo": "awesome-llm-human-preference-datasets",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "h2oai",
             "repo": "h2o-wizardlm",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "georgesung",
             "repo": "llm_qlora",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "hscspring",
             "repo": "hcgf",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         },
         {
           "node_type": "item",
@@ -316,14 +336,15 @@
             "owner": "taprosoft",
             "repo": "llm_finetuning",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-29T00:57:59.460Z"
         }
       ],
       "title": "GitHub projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:29:03.808Z",
+    "last_updated": "2026-08-29T00:57:59.460Z",
     "original_repository_info": {
       "archived": false,
       "id": 711864970,
