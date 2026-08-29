@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+            "homepage": "https://llamafactory.readthedocs.io",
             "id": 646410686,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:50:57Z",
+            "open_issues": 1138,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74429
+            "stars": 74430,
+            "topics": [
+              "agent",
+              "ai",
+              "deepseek",
+              "fine-tuning",
+              "gemma",
+              "gpt",
+              "instruction-tuning",
+              "large-language-models",
+              "llama",
+              "llama3",
+              "llm",
+              "lora",
+              "moe",
+              "nlp",
+              "peft",
+              "qlora",
+              "quantization",
+              "qwen",
+              "rlhf",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -26,12 +52,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LlamaIndex is the leading document agent and OCR platform",
+            "homepage": "https://developers.llamaindex.ai",
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-28T15:33:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:43:47Z",
+            "open_issues": 670,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51909
+            "stars": 51909,
+            "topics": [
+              "agents",
+              "application",
+              "data",
+              "fine-tuning",
+              "framework",
+              "llamaindex",
+              "llm",
+              "multi-agents",
+              "rag",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -42,12 +84,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified framework for building enterprise RAG pipelines with small, specialized models",
+            "homepage": "https://llmware-ai.github.io/llmware/",
             "id": 698288684,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-17T13:53:37Z",
+            "open_issues": 95,
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14852
+            "stars": 14850,
+            "topics": [
+              "agents",
+              "generative-ai-tools",
+              "llamacpp",
+              "llm",
+              "onnx",
+              "openvino",
+              "parsing",
+              "retrieval-augmented-generation",
+              "small-specialized-models"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -58,12 +115,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+            "homepage": "https://lightning.ai",
             "id": 636372163,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T10:24:35Z",
+            "open_issues": 282,
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13635
+            "stars": 13635,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "deep-learning",
+              "large-language-models",
+              "llm",
+              "llm-inference",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -74,12 +144,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Observability & Evaluation",
+            "homepage": "https://arize.com/docs/phoenix",
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-29T00:53:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:14:39Z",
+            "open_issues": 916,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11227
+            "stars": 11229,
+            "topics": [
+              "agents",
+              "ai-monitoring",
+              "ai-observability",
+              "aiengineering",
+              "anthropic",
+              "datasets",
+              "evals",
+              "langchain",
+              "llamaindex",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "smolagents"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -90,12 +182,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+            "homepage": "https://petals.dev",
             "id": 502482803,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-07T11:54:28Z",
+            "open_issues": 113,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10526
+            "stars": 10526,
+            "topics": [
+              "bloom",
+              "chatbot",
+              "deep-learning",
+              "distributed-systems",
+              "falcon",
+              "gpt",
+              "guanaco",
+              "language-models",
+              "large-language-models",
+              "llama",
+              "machine-learning",
+              "mixtral",
+              "neural-networks",
+              "nlp",
+              "pipeline-parallelism",
+              "pretrained-models",
+              "pytorch",
+              "tensor-parallelism",
+              "transformer",
+              "volunteer-computing"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -106,12 +224,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Next-Generation Training Engine Built for Ultra-Large MoE Models",
+            "homepage": "https://xtuner.readthedocs.io/zh-cn/latest/",
             "id": 664913876,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:17:26Z",
+            "open_issues": 364,
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5185
+            "stars": 5185,
+            "topics": [
+              "agent",
+              "deepseek-v3",
+              "gpt-oss",
+              "intern-s1",
+              "internvl",
+              "kimi-k2",
+              "llm",
+              "multimodal",
+              "qwen3-moe",
+              "qwen3-vl",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -122,12 +257,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+            "homepage": "https://h2o.ai",
             "id": 629142696,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T14:26:40Z",
+            "open_issues": 36,
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
-            "stars": 5174
+            "stars": 5174,
+            "topics": [
+              "ai",
+              "chatbot",
+              "chatgpt",
+              "fedramp",
+              "fine-tuning",
+              "finetuning",
+              "generative",
+              "generative-ai",
+              "gpt",
+              "llama",
+              "llama2",
+              "llm",
+              "llm-training"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -138,12 +292,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤗 AutoTrain Advanced",
+            "homepage": "https://huggingface.co/autotrain",
             "id": 321753299,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T09:55:09Z",
+            "open_issues": 6,
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4608
+            "stars": 4608,
+            "topics": [
+              "autotrain",
+              "deep-learning",
+              "huggingface",
+              "machine-learning",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -154,12 +321,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL",
+            "homepage": null,
             "id": 648474263,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-02T03:39:31Z",
+            "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2009
+            "stars": 2009,
+            "topics": [
+              "database",
+              "datasets",
+              "fine-tuning",
+              "gpt",
+              "hacktoberfest",
+              "llm",
+              "nl2sql",
+              "sql",
+              "text-to-sql",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -170,12 +353,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our EMNLP 2023 Paper: \"LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models\"",
+            "homepage": "https://arxiv.org/abs/2304.01933",
             "id": 620843043,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-10T08:20:15Z",
+            "open_issues": 55,
             "owner": "AGI-Edgerunners",
             "repo": "LLM-Adapters",
-            "stars": 1233
+            "stars": 1233,
+            "topics": [
+              "adapters",
+              "fine-tuning",
+              "large-language-models",
+              "parameter-efficient"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -186,12 +379,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit for fine-tuning, ablating and unit-testing open-source LLMs.",
+            "homepage": null,
             "id": 670206497,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-04T16:33:40Z",
+            "open_issues": 16,
             "owner": "georgian-io",
             "repo": "LLM-Finetuning-Toolkit",
-            "stars": 870
+            "stars": 870,
+            "topics": [
+              "ablation-study",
+              "classification",
+              "falcon",
+              "fine-tuning",
+              "finetuning",
+              "flan-t5",
+              "large-language-models",
+              "llama2",
+              "llm-test",
+              "lora",
+              "mistral-7b",
+              "nlp",
+              "nlp-machine-learning",
+              "qlora",
+              "redpajama",
+              "summarization",
+              "unit-testing",
+              "zephyr"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -202,12 +419,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High Accuracy and efficiency multi-task fine-tuning framework for Code LLMs. This work has been accepted by KDD 2024.",
+            "homepage": null,
             "id": 688398606,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-30T06:01:59Z",
+            "open_issues": 12,
             "owner": "codefuse-ai",
             "repo": "MFTCoder",
-            "stars": 711
+            "stars": 711,
+            "topics": [
+              "customizable",
+              "multi-model-support",
+              "multi-task-fine-tuning",
+              "multi-task-learning",
+              "user-friendly"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -218,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for fine-tuning Platypus fam LLMs using LoRA",
+            "homepage": null,
             "id": 658571084,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-04T09:50:42Z",
+            "open_issues": 15,
             "owner": "arielnlee",
             "repo": "Platypus",
-            "stars": 625
+            "stars": 625,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -234,12 +467,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀WebUI integrated platform for latest LLMs | 各大语言模型的全流程工具 WebUI 整合包。支持主流大模型API接口和开源模型。支持知识库，数据库，角色扮演，mj文生图，LoRA和全参数微调，数据集制作，live2d等全流程应用工具",
+            "homepage": null,
             "id": 669402660,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-11-25T07:09:15Z",
+            "open_issues": 0,
             "owner": "wpydcr",
             "repo": "LLM-Kit",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "chatbot",
+              "embeddings",
+              "fine-tuning",
+              "generative-agents",
+              "llm",
+              "player"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -250,12 +495,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for fine-tuning Casual LLMs",
+            "homepage": null,
             "id": 393592151,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-03-27T07:20:16Z",
+            "open_issues": 2,
             "owner": "mallorbc",
             "repo": "Finetune_LLMs",
-            "stars": 467
+            "stars": 467,
+            "topics": [
+              "docker",
+              "falcon",
+              "gpt",
+              "gpt-3",
+              "gpt-35-turbo",
+              "gpt-4",
+              "gpt-j-6b",
+              "llama",
+              "llama2",
+              "llm",
+              "llm-training",
+              "mpt"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -266,12 +529,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.",
+            "homepage": null,
             "id": 635880783,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-04T19:56:44Z",
+            "open_issues": 0,
             "owner": "glgh",
             "repo": "awesome-llm-human-preference-datasets",
-            "stars": 390
+            "stars": 390,
+            "topics": [
+              "awesome-list",
+              "datasets",
+              "eval",
+              "human-preferences",
+              "llm",
+              "machine-learning",
+              "nlp",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -282,12 +559,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open-Source Implementation of WizardLM to turn documents into Q:A pairs for LLM fine-tuning",
+            "homepage": "https://h2o.ai",
             "id": 640070775,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-24T17:29:44Z",
+            "open_issues": 5,
             "owner": "h2oai",
             "repo": "h2o-wizardlm",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "gpt",
+              "llm",
+              "opensource",
+              "vicuna",
+              "wizardlm"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -298,12 +586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fine-tuning LLMs using QLoRA",
+            "homepage": null,
             "id": 661489394,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-06-21T18:04:57Z",
+            "open_issues": 7,
             "owner": "georgesung",
             "repo": "llm_qlora",
-            "stars": 267
+            "stars": 267,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -314,12 +607,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Humanable Chat Generative-model Fine-tuning | LLM微调",
+            "homepage": null,
             "id": 617804791,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-22T15:19:03Z",
+            "open_issues": 0,
             "owner": "hscspring",
             "repo": "hcgf",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "chatglm",
+              "chatglm2",
+              "chatgpt",
+              "fine-tuning",
+              "large-language-models",
+              "llama",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         },
@@ -330,12 +636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convenient wrapper for fine-tuning and inference of Large Language Models (LLMs) with several quantization techniques (GTPQ, bitsandbytes)",
+            "homepage": null,
             "id": 663748917,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-17T04:50:15Z",
+            "open_issues": 1,
             "owner": "taprosoft",
             "repo": "llm_finetuning",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
         }
@@ -344,15 +655,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:57:59.460Z",
+    "last_updated": "2026-08-29T04:44:48.634Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
+      "homepage": null,
       "id": 711864970,
       "language": null,
+      "license": null,
       "last_commit": "2024-12-02T20:11:14Z",
+      "open_issues": 10,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-llms-fine-tuning",
-      "stars": 525
+      "stars": 525,
+      "topics": [
+        "ai",
+        "awesome-list",
+        "deep-learning",
+        "fine-tuning",
+        "gpt",
+        "large-language-models",
+        "llms",
+        "machine-learning",
+        "nlp",
+        "transformers"
+      ]
     },
     "original_repository_sha": "724f5f84a9ee91a6a55e66dd786b7ebe36291dd3",
     "enhanced_repository": "enhansome/enhansome-llms-fine-tuning",
