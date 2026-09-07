@@ -19,7 +19,7 @@
             "open_issues": 1145,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74603,
+            "stars": 74623,
             "topics": [
               "agent",
               "ai",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-05T04:39:33Z",
-            "open_issues": 715,
+            "open_issues": 726,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52039,
+            "stars": 52059,
             "topics": [
               "agents",
               "application",
@@ -120,11 +120,11 @@
             "id": 636372163,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T16:38:27Z",
-            "open_issues": 288,
+            "last_commit": "2026-09-07T10:24:25Z",
+            "open_issues": 289,
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13654,
+            "stars": 13655,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T23:01:13Z",
-            "open_issues": 978,
+            "last_commit": "2026-09-07T17:33:38Z",
+            "open_issues": 979,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11345,
+            "stars": 11362,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -191,7 +191,7 @@
             "open_issues": 114,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10540,
+            "stars": 10543,
             "topics": [
               "bloom",
               "chatbot",
@@ -229,8 +229,8 @@
             "id": 664913876,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T01:42:51Z",
-            "open_issues": 370,
+            "last_commit": "2026-09-07T09:08:32Z",
+            "open_issues": 373,
             "owner": "InternLM",
             "repo": "xtuner",
             "stars": 5190,
@@ -476,7 +476,7 @@
             "open_issues": 0,
             "owner": "wpydcr",
             "repo": "LLM-Kit",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "chatbot",
               "embeddings",
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:08:33.578Z",
+    "last_updated": "2026-09-07T20:33:19.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
@@ -667,7 +667,7 @@
       "open_issues": 9,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-llms-fine-tuning",
-      "stars": 526,
+      "stars": 527,
       "topics": [
         "ai",
         "awesome-list",
