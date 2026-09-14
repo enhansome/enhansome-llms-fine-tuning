@@ -21,13 +21,13 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 
 ## GitHub projects
 
-* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 74,743 | 🐛 1,152 | 🌐 Python | 📅 2026-09-09: An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 stars)
-* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,148 | 🐛 759 | 🌐 Python | 📅 2026-09-11 🦙: A data framework for your LLM applications. (23010 stars)
-* [llmware](https://github.com/llmware-ai/llmware) ⭐ 14,843 | 🐛 95 | 🌐 Python | 📅 2026-05-17 : Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. :star: 289
-* [lit-gpt](https://github.com/Lightning-AI/lit-gpt) ⭐ 13,660 | 🐛 288 | 🌐 Python | 📅 2026-09-09: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. (3469 stars)
-* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,440 | 🐛 976 | 🌐 Python | 📅 2026-09-13: AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook. (1596 stars)
-* [Petals](https://github.com/bigscience-workshop/petals) ⭐ 10,564 | 🐛 114 | 🌐 Python | 📅 2024-09-07 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
-* [xtuner](https://github.com/InternLM/xtuner) ⭐ 5,194 | 🐛 377 | 🌐 Python | 📅 2026-09-12: A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM2). (540 stars)
+* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 74,770 | 🐛 1,150 | 🌐 Python | 📅 2026-09-14: An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 stars)
+* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,160 | 🐛 768 | 🌐 Python | 📅 2026-09-11 🦙: A data framework for your LLM applications. (23010 stars)
+* [llmware](https://github.com/llmware-ai/llmware) ⭐ 14,842 | 🐛 95 | 🌐 Python | 📅 2026-05-17 : Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. :star: 289
+* [lit-gpt](https://github.com/Lightning-AI/lit-gpt) ⭐ 13,662 | 🐛 289 | 🌐 Python | 📅 2026-09-14: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. (3469 stars)
+* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,458 | 🐛 986 | 🌐 Python | 📅 2026-09-14: AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook. (1596 stars)
+* [Petals](https://github.com/bigscience-workshop/petals) ⭐ 10,568 | 🐛 114 | 🌐 Python | 📅 2024-09-07 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
+* [xtuner](https://github.com/InternLM/xtuner) ⭐ 5,195 | 🐛 374 | 🌐 Python | 📅 2026-09-14: A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM2). (540 stars)
 * [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) ⭐ 5,181 | 🐛 36 | 🌐 Python | 📅 2026-09-08: A framework and no-code GUI for fine-tuning LLMs. Documentation: <https://h2oai.github.io/h2o-llmstudio/> (2880 stars)
 * [AutoTrain](https://github.com/huggingface/autotrain-advanced) ⭐ 4,612 | 🐛 1 | 🌐 Python | 📅 2026-07-21 - No code fine-tuning of LLMs and other machine learning tasks.
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,012 | 🐛 73 | 🌐 Python | 📅 2025-07-02: A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance, especially in Text-to-SQL, and achieved higher exec acc than GPT-4 in spider eval with 13B LLM used this project. (422 stars)
@@ -36,7 +36,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 * [MFTCoder](https://github.com/codefuse-ai/MFTCoder) ⭐ 712 | 🐛 12 | 🌐 Python | 📅 2024-12-30 : High Accuracy and efficiency multi-task fine-tuning framework for Code LLMs; 业内首个高精度、高效率、多任务、多模型支持、多训练算法，大模型代码能力微调框架. :star: 337
 * [Platypus](https://github.com/arielnlee/Platypus) ⭐ 625 | 🐛 15 | 🌐 Python | 📅 2024-02-04: Code for fine-tuning Platypus fam LLMs using LoRA. (589 stars)
 * [LLM-Kit](https://github.com/wpydcr/LLM-Kit) ⭐ 554 | 🐛 0 | 🌐 Python | 📅 2025-11-25 : 🚀WebUI integrated platform for latest LLMs | 各大语言模型的全流程工具 WebUI 整合包。支持主流大模型API接口和开源模型。支持知识库，数据库，角色扮演，mj文生图，LoRA和全参数微调，数据集制作，live2d等全流程应用工具. :star: 232
-* [Finetune\_LLMs](https://github.com/mallorbc/Finetune_LLMs) ⭐ 467 | 🐛 2 | 🌐 Python | 📅 2024-03-27 : Repo for fine-tuning Casual LLMs. :star: 391
+* [Finetune\_LLMs](https://github.com/mallorbc/Finetune_LLMs) ⭐ 466 | 🐛 2 | 🌐 Python | 📅 2024-03-27 : Repo for fine-tuning Casual LLMs. :star: 391
 * [awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets) ⭐ 391 | 🐛 0 | 📅 2023-10-04 : A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval. :star: 124
 * [h2o-wizardlm](https://github.com/h2oai/h2o-wizardlm) ⚠️ Archived : Open-Source Implementation of WizardLM to turn documents into Q:A pairs for LLM fine-tuning. :star: 228
 * [llm\_qlora](https://github.com/georgesung/llm_qlora) ⭐ 266 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-06-21 : Fine-tuning LLMs using QLoRA. :star: 136
@@ -244,4 +244,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
