@@ -19,7 +19,7 @@
             "open_issues": 1171,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75279,
+            "stars": 75285,
             "topics": [
               "agent",
               "ai",
@@ -61,7 +61,7 @@
             "open_issues": 848,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52385,
+            "stars": 52388,
             "topics": [
               "agents",
               "application",
@@ -93,7 +93,7 @@
             "open_issues": 95,
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14826,
+            "stars": 14827,
             "topics": [
               "agents",
               "generative-ai-tools",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T21:18:41Z",
-            "open_issues": 1080,
+            "last_commit": "2026-10-03T03:05:44Z",
+            "open_issues": 1092,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11684,
+            "stars": 11687,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -191,7 +191,7 @@
             "open_issues": 114,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10603,
+            "stars": 10605,
             "topics": [
               "bloom",
               "chatbot",
@@ -230,7 +230,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T08:56:27Z",
-            "open_issues": 389,
+            "open_issues": 390,
             "owner": "InternLM",
             "repo": "xtuner",
             "stars": 5206,
@@ -266,7 +266,7 @@
             "open_issues": 36,
             "owner": "h2oai",
             "repo": "h2o-llmstudio",
-            "stars": 5182,
+            "stars": 5183,
             "topics": [
               "ai",
               "chatbot",
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:19:15.584Z",
+    "last_updated": "2026-10-03T04:53:04.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
