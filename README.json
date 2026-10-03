@@ -19,7 +19,7 @@
             "open_issues": 1171,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75285,
+            "stars": 75292,
             "topics": [
               "agent",
               "ai",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T18:39:47Z",
-            "open_issues": 848,
+            "open_issues": 852,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52388,
+            "stars": 52396,
             "topics": [
               "agents",
               "application",
@@ -124,7 +124,7 @@
             "open_issues": 310,
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13691,
+            "stars": 13692,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T03:05:44Z",
+            "last_commit": "2026-10-03T19:15:38Z",
             "open_issues": 1092,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11687,
+            "stars": 11692,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -191,7 +191,7 @@
             "open_issues": 114,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10605,
+            "stars": 10607,
             "topics": [
               "bloom",
               "chatbot",
@@ -233,7 +233,7 @@
             "open_issues": 390,
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5206,
+            "stars": 5205,
             "topics": [
               "agent",
               "deepseek-v3",
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:04.203Z",
+    "last_updated": "2026-10-03T19:49:26.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
