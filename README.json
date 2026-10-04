@@ -19,7 +19,7 @@
             "open_issues": 1171,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75292,
+            "stars": 75310,
             "topics": [
               "agent",
               "ai",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T18:39:47Z",
-            "open_issues": 852,
+            "open_issues": 862,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52396,
+            "stars": 52408,
             "topics": [
               "agents",
               "application",
@@ -124,7 +124,7 @@
             "open_issues": 310,
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13692,
+            "stars": 13693,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T19:15:38Z",
-            "open_issues": 1092,
+            "last_commit": "2026-10-04T14:38:21Z",
+            "open_issues": 1109,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11692,
+            "stars": 11703,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -191,7 +191,7 @@
             "open_issues": 114,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10607,
+            "stars": 10609,
             "topics": [
               "bloom",
               "chatbot",
@@ -301,7 +301,7 @@
             "open_issues": 2,
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4614,
+            "stars": 4616,
             "topics": [
               "autotrain",
               "deep-learning",
@@ -330,7 +330,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2012,
+            "stars": 2013,
             "topics": [
               "database",
               "datasets",
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:49:26.424Z",
+    "last_updated": "2026-10-04T20:09:35.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
