@@ -21,15 +21,15 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 
 ## GitHub projects
 
-* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,333 | 🐛 1,172 | 🌐 Python | 📅 2026-09-28: An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 stars)
-* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,418 | 🐛 897 | 🌐 Python | 📅 2026-10-05 🦙: A data framework for your LLM applications. (23010 stars)
-* [llmware](https://github.com/llmware-ai/llmware) ⭐ 14,824 | 🐛 95 | 🌐 Python | 📅 2026-10-01 : Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. :star: 289
+* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,334 | 🐛 1,172 | 🌐 Python | 📅 2026-09-28: An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 stars)
+* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,423 | 🐛 899 | 🌐 Python | 📅 2026-10-06 🦙: A data framework for your LLM applications. (23010 stars)
+* [llmware](https://github.com/llmware-ai/llmware) ⭐ 14,820 | 🐛 95 | 🌐 Python | 📅 2026-10-01 : Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. :star: 289
 * [lit-gpt](https://github.com/Lightning-AI/lit-gpt) ⭐ 13,693 | 🐛 311 | 🌐 Python | 📅 2026-10-05: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. (3469 stars)
-* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,720 | 🐛 1,099 | 🌐 Python | 📅 2026-10-06: AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook. (1596 stars)
-* [Petals](https://github.com/bigscience-workshop/petals) ⭐ 10,613 | 🐛 114 | 🌐 Python | 📅 2024-09-07 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
+* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,733 | 🐛 1,092 | 🌐 Python | 📅 2026-10-06: AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook. (1596 stars)
+* [Petals](https://github.com/bigscience-workshop/petals) ⭐ 10,614 | 🐛 114 | 🌐 Python | 📅 2024-09-07 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
 * [xtuner](https://github.com/InternLM/xtuner) ⭐ 5,204 | 🐛 390 | 🌐 Python | 📅 2026-09-30: A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM2). (540 stars)
 * [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) ⭐ 5,182 | 🐛 36 | 🌐 Python | 📅 2026-10-06: A framework and no-code GUI for fine-tuning LLMs. Documentation: <https://h2oai.github.io/h2o-llmstudio/> (2880 stars)
-* [AutoTrain](https://github.com/huggingface/autotrain-advanced) ⭐ 4,613 | 🐛 3 | 🌐 Python | 📅 2026-10-06 - No code fine-tuning of LLMs and other machine learning tasks.
+* [AutoTrain](https://github.com/huggingface/autotrain-advanced) ⭐ 4,612 | 🐛 3 | 🌐 Python | 📅 2026-10-06 - No code fine-tuning of LLMs and other machine learning tasks.
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,012 | 🐛 73 | 🌐 Python | 📅 2025-07-02: A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance, especially in Text-to-SQL, and achieved higher exec acc than GPT-4 in spider eval with 13B LLM used this project. (422 stars)
 * [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters) ⭐ 1,236 | 🐛 55 | 🌐 Python | 📅 2024-03-10: Code for the EMNLP 2023 Paper: "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models". (769 stars)
 * [LLM-Finetuning-Hub](https://github.com/georgian-io/LLM-Finetuning-Hub) ⭐ 870 | 🐛 16 | 🌐 Python | 📅 2026-05-04 : Repository that contains LLM fine-tuning and deployment scripts along with our research findings. :star: 416
@@ -39,7 +39,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 * [Finetune\_LLMs](https://github.com/mallorbc/Finetune_LLMs) ⭐ 466 | 🐛 2 | 🌐 Python | 📅 2024-03-27 : Repo for fine-tuning Casual LLMs. :star: 391
 * [awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets) ⭐ 394 | 🐛 0 | 📅 2023-10-04 : A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval. :star: 124
 * [h2o-wizardlm](https://github.com/h2oai/h2o-wizardlm) ⚠️ Archived : Open-Source Implementation of WizardLM to turn documents into Q:A pairs for LLM fine-tuning. :star: 228
-* [llm\_qlora](https://github.com/georgesung/llm_qlora) ⭐ 267 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-06-21 : Fine-tuning LLMs using QLoRA. :star: 136
+* [llm\_qlora](https://github.com/georgesung/llm_qlora) ⭐ 268 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-06-21 : Fine-tuning LLMs using QLoRA. :star: 136
 * [hcgf](https://github.com/hscspring/hcgf) ⭐ 204 | 🐛 0 | 🌐 Python | 📅 2023-09-22 : Humanable Chat Generative-model Fine-tuning | LLM微调. :star: 196
 * [llm\_finetuning](https://github.com/taprosoft/llm_finetuning) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2023-10-17 : Convenient wrapper for fine-tuning and inference of Large Language Models (LLMs) with several quantization techniques (GTPQ, bitsandbytes). :star: 114
 
@@ -240,7 +240,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 
 ***
 
-This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2026-09-18. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
+This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2026-10-06. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
 
 ***
 

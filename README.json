@@ -19,7 +19,7 @@
             "open_issues": 1172,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75333,
+            "stars": 75334,
             "topics": [
               "agent",
               "ai",
@@ -57,11 +57,11 @@
             "id": 560704231,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T15:17:10Z",
-            "open_issues": 897,
+            "last_commit": "2026-10-06T19:11:28Z",
+            "open_issues": 899,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52418,
+            "stars": 52423,
             "topics": [
               "agents",
               "application",
@@ -93,7 +93,7 @@
             "open_issues": 95,
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14824,
+            "stars": 14820,
             "topics": [
               "agents",
               "generative-ai-tools",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T03:08:07Z",
-            "open_issues": 1099,
+            "last_commit": "2026-10-06T21:33:50Z",
+            "open_issues": 1092,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11720,
+            "stars": 11733,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -191,7 +191,7 @@
             "open_issues": 114,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10613,
+            "stars": 10614,
             "topics": [
               "bloom",
               "chatbot",
@@ -301,7 +301,7 @@
             "open_issues": 3,
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4613,
+            "stars": 4612,
             "topics": [
               "autotrain",
               "deep-learning",
@@ -595,7 +595,7 @@
             "open_issues": 7,
             "owner": "georgesung",
             "repo": "llm_qlora",
-            "stars": 267,
+            "stars": 268,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:56.826Z",
+    "last_updated": "2026-10-06T21:36:39.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
