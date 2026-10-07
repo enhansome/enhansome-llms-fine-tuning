@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T09:10:59Z",
-            "open_issues": 1172,
+            "open_issues": 1176,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75334,
+            "stars": 75347,
             "topics": [
               "agent",
               "ai",
@@ -61,7 +61,7 @@
             "open_issues": 899,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52423,
+            "stars": 52434,
             "topics": [
               "agents",
               "application",
@@ -93,7 +93,7 @@
             "open_issues": 95,
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14820,
+            "stars": 14818,
             "topics": [
               "agents",
               "generative-ai-tools",
@@ -120,11 +120,11 @@
             "id": 636372163,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T23:26:02Z",
+            "last_commit": "2026-10-07T17:01:06Z",
             "open_issues": 311,
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13693,
+            "stars": 13696,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T21:33:50Z",
-            "open_issues": 1092,
+            "last_commit": "2026-10-07T21:19:25Z",
+            "open_issues": 1117,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11733,
+            "stars": 11744,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -301,7 +301,7 @@
             "open_issues": 3,
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4612,
+            "stars": 4613,
             "topics": [
               "autotrain",
               "deep-learning",
@@ -455,7 +455,7 @@
             "open_issues": 15,
             "owner": "arielnlee",
             "repo": "Platypus",
-            "stars": 623,
+            "stars": 624,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:59.460Z"
@@ -616,7 +616,7 @@
             "open_issues": 0,
             "owner": "hscspring",
             "repo": "hcgf",
-            "stars": 204,
+            "stars": 203,
             "topics": [
               "chatglm",
               "chatglm2",
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:36:39.867Z",
+    "last_updated": "2026-10-07T21:57:40.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
@@ -667,7 +667,7 @@
       "open_issues": 11,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-llms-fine-tuning",
-      "stars": 531,
+      "stars": 532,
       "topics": [
         "ai",
         "awesome-list",
