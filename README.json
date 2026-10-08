@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T09:10:59Z",
-            "open_issues": 1176,
+            "open_issues": 1179,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75347,
+            "stars": 75363,
             "topics": [
               "agent",
               "ai",
@@ -57,11 +57,11 @@
             "id": 560704231,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T19:11:28Z",
-            "open_issues": 899,
+            "last_commit": "2026-10-08T20:45:50Z",
+            "open_issues": 890,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52434,
+            "stars": 52443,
             "topics": [
               "agents",
               "application",
@@ -93,7 +93,7 @@
             "open_issues": 95,
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14818,
+            "stars": 14822,
             "topics": [
               "agents",
               "generative-ai-tools",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T21:19:25Z",
-            "open_issues": 1117,
+            "last_commit": "2026-10-08T21:21:31Z",
+            "open_issues": 1103,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11744,
+            "stars": 11761,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -191,7 +191,7 @@
             "open_issues": 114,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10614,
+            "stars": 10615,
             "topics": [
               "bloom",
               "chatbot",
@@ -229,11 +229,11 @@
             "id": 664913876,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T08:56:27Z",
-            "open_issues": 390,
+            "last_commit": "2026-10-08T13:11:42Z",
+            "open_issues": 391,
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5204,
+            "stars": 5205,
             "topics": [
               "agent",
               "deepseek-v3",
@@ -330,7 +330,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2012,
+            "stars": 2013,
             "topics": [
               "database",
               "datasets",
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:57:40.610Z",
+    "last_updated": "2026-10-08T22:03:19.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
