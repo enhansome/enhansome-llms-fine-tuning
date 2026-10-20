@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T18:17:27Z",
-            "open_issues": 1194,
+            "open_issues": 1196,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75591,
+            "stars": 75602,
             "topics": [
               "agent",
               "ai",
@@ -57,11 +57,11 @@
             "id": 560704231,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T21:24:48Z",
-            "open_issues": 995,
+            "last_commit": "2026-10-20T07:12:17Z",
+            "open_issues": 1004,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52569,
+            "stars": 52582,
             "topics": [
               "agents",
               "application",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T20:41:59Z",
-            "open_issues": 1168,
+            "last_commit": "2026-10-20T19:56:28Z",
+            "open_issues": 1167,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11911,
+            "stars": 11927,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -191,7 +191,7 @@
             "open_issues": 114,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10642,
+            "stars": 10648,
             "topics": [
               "bloom",
               "chatbot",
@@ -229,11 +229,11 @@
             "id": 664913876,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T14:42:38Z",
+            "last_commit": "2026-10-20T13:01:38Z",
             "open_issues": 404,
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5213,
+            "stars": 5214,
             "topics": [
               "agent",
               "deepseek-v3",
@@ -301,7 +301,7 @@
             "open_issues": 4,
             "owner": "huggingface",
             "repo": "autotrain-advanced",
-            "stars": 4612,
+            "stars": 4613,
             "topics": [
               "autotrain",
               "deep-learning",
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:30:49.434Z",
+    "last_updated": "2026-10-20T20:33:33.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
