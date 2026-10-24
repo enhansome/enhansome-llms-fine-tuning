@@ -21,14 +21,14 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 
 ## GitHub projects
 
-* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,696 | 🐛 1,204 | 🌐 Python | 📅 2026-10-21: An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 stars)
-* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,639 | 🐛 1,053 | 🌐 Python | 📅 2026-10-23 🦙: A data framework for your LLM applications. (23010 stars)
+* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,710 | 🐛 1,204 | 🌐 Python | 📅 2026-10-21: An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 stars)
+* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,642 | 🐛 1,055 | 🌐 Python | 📅 2026-10-23 🦙: A data framework for your LLM applications. (23010 stars)
 * [llmware](https://github.com/llmware-ai/llmware) ⭐ 14,815 | 🐛 98 | 🌐 Python | 📅 2026-10-01 : Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. :star: 289
-* [lit-gpt](https://github.com/Lightning-AI/lit-gpt) ⭐ 13,726 | 🐛 317 | 🌐 Python | 📅 2026-10-13: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. (3469 stars)
-* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,971 | 🐛 1,225 | 🌐 Python | 📅 2026-10-23: AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook. (1596 stars)
-* [Petals](https://github.com/bigscience-workshop/petals) ⭐ 10,658 | 🐛 114 | 🌐 Python | 📅 2024-09-07 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
+* [lit-gpt](https://github.com/Lightning-AI/lit-gpt) ⭐ 13,725 | 🐛 317 | 🌐 Python | 📅 2026-10-13: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. (3469 stars)
+* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,985 | 🐛 1,219 | 🌐 Python | 📅 2026-10-24: AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook. (1596 stars)
+* [Petals](https://github.com/bigscience-workshop/petals) ⭐ 10,662 | 🐛 114 | 🌐 Python | 📅 2024-09-07 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
 * [xtuner](https://github.com/InternLM/xtuner) ⭐ 5,215 | 🐛 400 | 🌐 Python | 📅 2026-10-23: A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM2). (540 stars)
-* [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) ⭐ 5,184 | 🐛 38 | 🌐 Python | 📅 2026-10-17: A framework and no-code GUI for fine-tuning LLMs. Documentation: <https://h2oai.github.io/h2o-llmstudio/> (2880 stars)
+* [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) ⭐ 5,185 | 🐛 37 | 🌐 Python | 📅 2026-10-24: A framework and no-code GUI for fine-tuning LLMs. Documentation: <https://h2oai.github.io/h2o-llmstudio/> (2880 stars)
 * [AutoTrain](https://github.com/huggingface/autotrain-advanced) ⭐ 4,614 | 🐛 4 | 🌐 Python | 📅 2026-10-06 - No code fine-tuning of LLMs and other machine learning tasks.
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,016 | 🐛 73 | 🌐 Python | 📅 2025-07-02: A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance, especially in Text-to-SQL, and achieved higher exec acc than GPT-4 in spider eval with 13B LLM used this project. (422 stars)
 * [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters) ⭐ 1,236 | 🐛 55 | 🌐 Python | 📅 2024-03-10: Code for the EMNLP 2023 Paper: "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models". (769 stars)
@@ -240,8 +240,8 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 
 ***
 
-This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2026-10-08. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
+This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 44 | 🐛 7 | 🌐 Python | 📅 2026-10-24. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
