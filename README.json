@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-21T10:57:51Z",
-            "open_issues": 1260,
+            "open_issues": 1262,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 76173,
+            "stars": 76205,
             "topics": [
               "agent",
               "ai",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-20T00:46:38Z",
-            "open_issues": 1519,
+            "open_issues": 1528,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52972,
+            "stars": 52984,
             "topics": [
               "agents",
               "application",
@@ -93,7 +93,7 @@
             "open_issues": 102,
             "owner": "llmware-ai",
             "repo": "llmware",
-            "stars": 14820,
+            "stars": 14819,
             "topics": [
               "agents",
               "generative-ai-tools",
@@ -124,7 +124,7 @@
             "open_issues": 363,
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13759,
+            "stars": 13760,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -149,11 +149,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T20:36:07Z",
-            "open_issues": 1320,
+            "last_commit": "2026-11-22T19:43:08Z",
+            "open_issues": 1321,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12369,
+            "stars": 12376,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -233,7 +233,7 @@
             "open_issues": 423,
             "owner": "InternLM",
             "repo": "xtuner",
-            "stars": 5223,
+            "stars": 5224,
             "topics": [
               "agent",
               "deepseek-v3",
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:09:56.835Z",
+    "last_updated": "2026-11-22T22:26:55.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!",
